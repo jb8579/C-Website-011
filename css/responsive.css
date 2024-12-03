@@ -102,6 +102,15 @@
         height: auto;
     }
 
+    img.xYoloW94MaBoUt-img-02.ju_22 {
+        position: static;
+        right: 0px;
+        top: 0px;
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+    }
+
     .xYoloW94MaBoUt-description {
         width: 100%;
         margin-top: 10px;
@@ -283,8 +292,9 @@
         padding: 80px 10px;
     }
     img.xYoloW94MaBoUt-img-02.ju_22 {
-        width: 400px;
-        top: 140px;
+        width: 450px;
+        top: 120px;
+        left: 278px;
     }
     .xYoloW94MHomeSeCtion {
         height: auto;
@@ -475,6 +485,7 @@
         margin-left: 0px;
         flex-direction: column;
         margin-right: 34px;
+        height: auto;
     }
 
     .YoloW94MreVieW-img > img {
@@ -506,7 +517,11 @@
     }
 
     .YoloW94MreVieW-description ul {
-        margin: 0px 0px 5px -25px;
+        margin: 0px 0px 5px 0px;
+    }
+
+    .YoloW94Mfooter {
+        margin-top: 834px;
     }
 
     .YoloW94MreVieW-description {
@@ -551,6 +566,8 @@
     img.xYoloW94MaBoUt-img-02.ju_22 {
         width: 100%;
         height: auto;
+        left: 42px;
+        top: 240px;
     }
     img.xYoloW94MaBoUt-img-02 {
         position: absolute;
@@ -643,6 +660,7 @@
         margin-top: -150px;
         z-index: 1;
         margin-left: 40px;
+        height: auto;
     }
 
     .YoloW94MreVieW-img > img {

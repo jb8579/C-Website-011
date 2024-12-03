@@ -1353,6 +1353,12 @@ a.wVe_y_btn_sub  > button {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.xYoloW94MHomeSeCtion.gth_Home_6{
+    background-image: url('../images/horse-racing-elite.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .xYoloW94MSubHomeSeCtion::before {
     content: '';
     position: absolute;
@@ -1449,16 +1455,17 @@ img.xYoloW94MaBoUt-img-01.ju_21 {
     width: 580px;
 }
 
-img.xYoloW94MaBoUt-img-02 {
+img.xYoloW94MaBoUt-img-02.ju_22 {
     position: absolute;
-    right: -36px;
-    top: 250px;
+    right: -46px;
+    top: 200px;
     height: auto;
     width: 515px;
 }
 
 .xYoloW94MaBoUtsEction.hyb_54K {
     padding-top: 100px;
+    padding-bottom: 60px;
 }
 
 .HyXChO47SeE_section{
