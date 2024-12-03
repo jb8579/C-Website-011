@@ -1,0 +1,722 @@
+@media only screen and (max-width: 600px) and (min-width: 300px) { 
+    .xYoloW94Mlogo-brand > h1 {
+        font-size: 14px;
+    }
+    .z_Kf2G {
+        height: auto;
+        width: 100%;
+    }
+    .xYoloW94Mlogo-img > img {
+        width: 44px;
+    }
+    .xYoloW94MHomeSeCtion {
+        height: 550px;
+    }
+    .xYoloW94MHomeConteNT {
+        padding: 90px 15px;
+        text-align: left;
+    }
+    .RY1B9m {
+        display: flex;
+        gap: 20px;
+        width: 100%;
+    }
+
+    img.xYoloW94MaBoUt-img-01.ju_21 {
+        width: 100%;
+    }
+
+    section.xLgvUd {
+        padding: 10px 0px;
+        margin-bottom: -52px;
+    }
+
+    .dLiyMd {
+        padding: 30px 15px;
+    }
+
+    .xYoloW94MaBoUtsEction.hyb_54K {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .xYoloW94MHomeConteNT > h1 {
+        font-size: 28px;
+        line-height: 42px;
+        font-weight: 800;
+    }
+    .xYoloW94MHomeConteNT > p {
+        font-size: 15px;
+        line-height: 26px;
+        padding: 15px 0px;
+        letter-spacing: 0px;
+    }
+    .xYoloW94MHomeSeCtion::before {
+        background-position: left;
+    }
+    .xYoloW94MHome-btn {
+        margin: 10px 0px;
+    }
+    .container {
+        width: 100%;
+        padding: 0px 15px;
+    }
+    .xYoloW94MaBoUtsEction{
+        padding: 0px 0px 40px 0px;
+    }
+
+    .xYoloW94MaBoUt-content {
+        display: flex;
+        justify-content: space-between;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    img.xYoloW94MaBoUt-img-01 {
+        width: 100%;
+        height: auto;
+    }
+
+    img.xYoloW94MaBoUt-img-02 {
+        position: static;
+        right: 0px;
+        top: 0px;
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+    }
+
+    .xYoloW94MaBoUt-description {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .xYoloW94MaBoUt-description > h2 {
+        font-size: 28px;
+    }
+    .YoloW94MGaME-section {
+        padding: 40px 0px;
+    }
+
+    .YoloW94MGaME-content {
+        margin: 0px 24px;
+    }
+    
+    .YoloW94MGaME-card-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 30px;
+        margin-top: 60px;
+        flex-direction: column;
+    }
+    .section-title > h2 {
+        font-size: 28px;
+    }
+    .YoloW94MeVeNT-content-01 {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .YoloW94MeVeNT-card-01 > img {
+        width: 100%;
+        height: auto;
+        margin-top: -180px;
+    }
+
+    .YoloW94MeVeNT-card-02 {
+        width: 100%;
+        padding: 0px 15px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+
+    .YoloW94MeVeNT-content-02 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 30px;
+        flex-direction: column-reverse;
+    }
+
+    .YoloW94MeVeNT-card-04 > img {
+        width: 100%;
+        height: auto;
+        margin-top: 65px;
+        padding: 0px 15px;
+    }
+
+    .YoloW94MeVeNT-card-03 {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 30px;
+        padding: 0px 15px;
+    }
+
+    .YoloW94MeVeNT-bg {
+        height: 1105px;
+        margin: 240px 0px 0px 0px;
+    }
+
+    .YoloW94MeVeNT-description > h2 {
+        font-size: 28px;
+    }
+    .YoloW94MainEevent-card {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+
+    .YoloW94MainEevent-card-02 {
+        display: flex;
+        flex-direction: column-reverse;
+        padding-bottom: 50px;
+    }
+
+    .YoloW94MainEevent-section {
+        padding: 680px 0px 50px 0px;
+    }
+    .YoloW94MainEevent-description > h2 {
+        font-size: 28px;
+    }
+    .YoloW94MainEevent-img > img {
+        width: 100%;
+        height: auto;
+    }
+
+    .YoloW94MainEevent-section {
+        padding: 600px 0px 0px 0px;
+    }
+
+    .YoloW94MainEevent-description {
+        padding: 50px 15px;
+    }
+
+    .YoloW94MreVieW-section {
+        padding: 40px 0px 100px 0px;
+    }
+
+    .YoloW94MreVieW-card {
+        display: flex;
+        margin-top: 30px;
+        margin-left: 5px;
+        flex-direction: column;
+        margin-right: 15px;
+    }
+
+    .YoloW94MreVieW-img > img {
+        width: 100%;
+    }
+
+    .YoloW94MreVieW-title > h2 {
+        font-size: 38px;
+        margin: 15px 0px;
+        padding: 50px 15px 0px 15px;
+        width: 100%;
+        line-height: 52px;
+        font-weight: 500;
+        font-style: italic;
+    }
+
+    .YoloW94MreVieW-bg {
+        height: 350px;
+    }
+
+    .YoloW94MreVieW-description > p {
+        margin: 15px 10px 0px 10px;
+    }
+
+    .YoloW94MreVieW-description > h3 {
+        margin: 30px 10px 5px 10px;
+    }
+
+    .YoloW94MreVieW-description > h4 {
+        margin: 0px 10px 35px 10px;
+    }
+
+    .YoloW94MreVieW-description ul {
+        margin: 0px 0px 5px 6px;
+    }
+
+    .YoloW94MreVieW-description {
+        padding: 40px 0px 0px 0px;
+    }
+    .YoloW94Mfooter {
+        margin-top: 560px;
+    }
+    h4.c-nav-tool_title {
+        padding-top: 30px;
+    }
+    .YoloW94MainEevent-card-02 {
+        height: unset;
+    }
+    .YoloW94MainEevent-card {
+        height: unset;
+    }
+    .YoloW94MreVieW-card {
+        height: unset;
+    }
+}
+
+
+
+@media only screen and (max-width: 868px) and (min-width: 601px) {
+    .xYoloW94MHomeConteNT {
+        padding: 80px 10px;
+    }
+
+    .xYoloW94MHomeSeCtion {
+        height: auto;
+    }
+    .xYoloW94MServIcecol-25 {
+        width: 45% !important;
+        height: 275px !important;
+    }
+
+    .xYoloW94MServIceoverlay span {
+        font-size: 38px;
+    }
+
+    .xYoloW94MHomeConteNT > h1 {
+        font-size: 38px;
+        line-height: 60px;
+    }
+
+    .xYoloW94MHomeConteNT > p {
+        padding: 15px 40px;
+    }
+
+    .xYoloW94MServIceoverlay p {
+        font-size: 13px;
+        line-height: 20px;
+        letter-spacing: 0px;
+        height: 112px;
+    }
+
+    .xYoloW94MaBoUtsEction {
+        padding: 40px 0px 40px 0px;
+    }
+
+    .xYoloW94MaBoUt-content {
+        display: flex;
+        justify-content: space-between;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    img.xYoloW94MaBoUt-img-02 {
+        right: 0px;
+    }
+
+    .xYoloW94MaBoUt-description {
+        width: 100%;
+        margin-top: 80px;
+    }
+
+    .xYoloW94MaBoUt-description > h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .xYoloW94MaBoUt-description > p {
+        font-size: 15px;
+        line-height: 30px;
+        margin: 12px 0px;
+    }
+
+    .YoloW94MGaME-card-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 30px;
+        margin-top: 80px;
+        flex-direction: column;
+    }
+    .YoloW94MGaME-section {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .YoloW94MainEevent-card-02 {
+        height: unset;
+    }
+
+    .YoloW94MainEevent-card {
+        height: auto;
+    }
+
+    h3.newsletter_title {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    
+
+    /* ----------- YoloW94MeVeNT Start ------- */
+    .YoloW94MeVeNT-content-01 {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .YoloW94MeVeNT-card-01 > img {
+        width: 100%;
+        height: auto;
+        margin-top: -180px;
+    }
+
+    .YoloW94MeVeNT-card-02 {
+        width: 100%;
+        margin-right: 0px;
+        margin: 30px 0px;
+        padding: 0px 34px;
+    }
+
+    .YoloW94MeVeNT-content-02 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 30px;
+        flex-direction: column-reverse;
+    }
+
+    .YoloW94MeVeNT-card-04 > img {
+        width: 100%;
+        height: auto;
+        margin-top: 65px;
+        padding: 0px 34px;
+    }
+
+    .YoloW94MeVeNT-card-03 {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 30px;
+        padding: 0px 34px;
+    }
+
+    .YoloW94MeVeNT-bg {
+        height: 1500px;
+        margin: 240px 0px 0px 0px;
+    }
+
+
+    /* -------------- YoloW94MainEevent Start ------------- */
+    .YoloW94MainEevent-card {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+
+    .YoloW94MainEevent-card-02 {
+        display: flex;
+        flex-direction: column-reverse;
+        padding-bottom: 50px;
+    }
+
+    .YoloW94MainEevent-img > img {
+        width: 100%;
+        height: auto;
+    }
+
+    .YoloW94MainEevent-section {
+        padding: 900px 0px 50px 0px;
+    }
+    
+
+
+    /* ---------------- YoloW94MreVieW ---------- */
+    .YoloW94MreVieW-section {
+        padding: 0px;
+    }
+
+    .YoloW94MreVieW-card {
+        display: flex;
+        margin-top: 30px;
+        margin-left: 0px;
+        flex-direction: column;
+        margin-right: 34px;
+    }
+
+    .YoloW94MreVieW-img > img {
+        width: 100%;
+    }
+
+    .YoloW94MreVieW-title > h2 {
+        font-size: 36px;
+        margin: 15px 0px;
+        padding: 50px 15px 0px 15px;
+        width: 100%;
+        line-height: 58px;
+    }
+
+    .YoloW94MreVieW-bg {
+        height: 250px;
+    }
+
+    .YoloW94MreVieW-description > p {
+        margin: 15px 10px 0px 10px;
+    }
+
+    .YoloW94MreVieW-description > h3 {
+        margin: 30px 10px 5px 10px;
+    }
+
+    .YoloW94MreVieW-description > h4 {
+        margin: 0px 10px 40px 10px;
+    }
+
+    .YoloW94MreVieW-description ul {
+        margin: 0px 0px 5px -25px;
+    }
+
+    .YoloW94MreVieW-description {
+        padding: 40px 0px 0px 0px;
+    }
+
+    /* ---------- Footer Start -------- */
+    .footer {
+        padding: 35px 0px 25px 0px;
+        background: #000000;
+        margin-top: 730px;
+    }
+
+    .modal-lg, .modal-xl {
+        --bs-modal-width: 680px !important;
+        border-radius: none !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 1200px) and (min-width: 869px) {
+    /* --------- Home Start -------- */
+    .xYoloW94MHomeConteNT {
+        padding: 120px 40px;
+        text-align: center;
+    }
+
+    .xYoloW94MHomeSeCtion {
+        height: auto;
+    }
+	
+	.xYoloW94MHomeConteNT > h1 {
+        font-size: 48px;
+    }
+
+    .xYoloW94MServIceoverlay span {
+        font-size: 35px;
+        padding: 0px 0px 0px 0px;
+    }
+
+
+    /* --------- xYoloW94MaBoUt Start ------- */
+    img.xYoloW94MaBoUt-img-01 {
+        width: 400px;
+        height: auto;
+    }
+
+    img.xYoloW94MaBoUt-img-02 {
+        position: absolute;
+        right: -45px;
+        top: 253px;
+        height: 420px;
+        width: 300px;
+    }
+
+    .xYoloW94MaBoUt-description {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .xYoloW94MaBoUt-description > h2 {
+        font-size: 38px;
+        line-height: normal;
+    }
+    .xYoloW94MaBoUtsEction {
+        padding: 50px 0px 140px 0px;
+    }
+
+    .YoloW94MGaME-section {
+        padding: 50px 0px 0px 0px;
+    }
+
+    .YoloW94MeVeNT-description > h2 {
+        font-size: 32px;
+    }
+
+    .YoloW94MainEevent-section {
+        padding: 450px 0px 0px 0px;
+    }
+
+
+    /* --------------- YoloW94MeVeNT ----------- */
+    .YoloW94MeVeNT-card-01 > img {
+        width: 480px;
+        height: auto;
+    }
+
+    .YoloW94MeVeNT-card-04 > img {
+        width: 500px;
+        height: auto;
+        margin-top: -130px;
+    }
+
+    .YoloW94MeVeNT-bg {
+        height: 650px;
+    }
+
+    .YoloW94MeVeNT-card-03 {
+        margin-left: 50px;
+        margin-top: 220px;
+    }
+
+    .YoloW94MeVeNT-card-02 {
+        margin-right: 30px;
+        width: 100%;
+    }
+
+    .YoloW94MeVeNT-content-01 {
+        gap: 40px;
+    }
+
+    .YoloW94MeVeNT-content-02 {
+        gap: 40px;
+    }
+
+
+
+    /* ------------- YoloW94MainEevent Start ------------- */
+    .YoloW94MainEevent-description {
+        padding: 34px 10px;
+    }
+
+    .YoloW94MainEevent-img > img {
+        width: 468px;
+    }
+
+    .YoloW94MainEevent-description > h2 {
+        font-size: 32px;
+        margin: 8px 0px;
+    }
+
+
+
+    /* ----------- YoloW94MreVieW Start ---------------- */
+    .YoloW94MreVieW-card {
+        margin-top: -150px;
+        z-index: 1;
+        margin-left: 40px;
+    }
+
+    .YoloW94MreVieW-img > img {
+        width: 400px;
+    }
+
+    .YoloW94MreVieW-description {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .YoloW94MreVieW-description > p {
+        line-height: 30px;
+        margin: 30px 40px 20px 40px;
+    }
+
+    .YoloW94MreVieW-description > h3 {
+        margin: 24px 40px 5px 40px;
+    }
+
+
+
+    /* ------------ Footer ----------- */
+    .footer {
+        padding: 35px 0px 25px 0px;
+        background: #000000;
+        margin-top: 120px;
+    }
+} 
+
+
+
+@media only screen and (max-width: 1300px) and (min-width: 1201px) {
+    .xYoloW94MaBoUt-description {
+        width: 500px;
+        margin-top: 40px;
+    }
+}
+
+
+
+@media only screen and (max-width: 1500px) and (min-width: 1400px) {
+    .xYoloW94MaBoUt-description {
+        width: 530px;
+        margin-top: 40px;
+    }
+
+    img.xYoloW94MaBoUt-img-01 {
+        width: 500px;
+        height: auto;
+    }
+
+    img.xYoloW94MaBoUt-img-02 {
+        top: 320px;
+    }
+
+    .YoloW94MainEevent-img > img {
+        width: 648px;
+    }
+
+    .YoloW94MainEevent-card-02 {
+        height: auto;
+    }
+
+    .YoloW94MainEevent-card {
+        height: auto;
+    }
+
+    .YoloW94MainEevent-section {
+        padding: 520px 0px 0px 0px;
+    }
+}
+
+
+
+@media only screen and (max-width: 5120px) and (min-width: 1501px) {
+    .YoloW94MainEevent-img > img {
+        width: 648px;
+    }
+
+    .YoloW94MreVieW-description > p {
+        margin: 40px 280px 20px 40px;
+    }
+
+    .YoloW94MainEevent-section {
+        padding: 550px 0px 50px 0px;
+    }
+
+    .YoloW94MainEevent-card-02 {
+        height: auto;
+    }
+
+    .YoloW94MainEevent-card {
+        height: auto;
+    }
+
+    section.xYoloW94MSerVices {
+        width: 84%;
+        max-width: 1365px;
+        margin: 0 auto 30px auto;
+    }
+
+    .xYoloW94MHomeConteNT {
+        padding: 140px 100px 100px 100px;
+        width: 55%;
+        margin: 0 auto;
+    }
+}
+
+
+@media only screen and (max-width: 375px) and (min-width: 300px) { 
+    .YoloW94MainEevent-section {
+        padding: 730px 0px 50px 0px;
+    }
+}
