@@ -6,7 +6,7 @@
         height: auto;
         width: 100%;
     }
-    h2.choose-title {
+    h2.HyXChO47SeE_title {
         font-size: 32px;
         line-height: 1.3em;
         padding-bottom: 16px;
@@ -17,7 +17,7 @@
     .xYoloW94MHomeSeCtion {
         height: 550px;
     }
-    .choose-row-1 {
+    .HyXChO47SeE_row-1 {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         gap: 16px;
@@ -311,7 +311,7 @@
         left: 38%;
         transform: translateX(-38%);
     }
-    h2.choose-title {
+    h2.HyXChO47SeE_title {
         font-size: 32px;
         padding-bottom: 12px;
     }
