@@ -6,11 +6,28 @@
         height: auto;
         width: 100%;
     }
+    h2.choose-title {
+        font-size: 32px;
+        line-height: 1.3em;
+        padding-bottom: 16px;
+    }
     .xYoloW94Mlogo-img > img {
         width: 44px;
     }
     .xYoloW94MHomeSeCtion {
         height: 550px;
+    }
+    .choose-row-1 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 16px;
+        margin-top: 34px;
+    }
+    a.wVe_y_btn_sub.lit_sub_p32 {
+        text-align: center;
+        position: relative;
+        left: 0;
+        transform: unset;
     }
     .xYoloW94MHomeConteNT {
         padding: 90px 15px;
@@ -265,7 +282,10 @@
     .xYoloW94MHomeConteNT {
         padding: 80px 10px;
     }
-
+    img.xYoloW94MaBoUt-img-02.ju_22 {
+        width: 400px;
+        top: 140px;
+    }
     .xYoloW94MHomeSeCtion {
         height: auto;
     }
@@ -278,6 +298,33 @@
         font-size: 38px;
     }
 
+    .xYoloW94MaBoUtsEction.hyb_54K {
+        padding-top: 70px;
+    }
+
+    .RY1B9m {
+        gap: 20px;
+    }
+    a.wVe_y_btn_sub.lit_sub_p32 {
+        text-align: center;
+        position: relative;
+        left: 38%;
+        transform: translateX(-38%);
+    }
+    h2.choose-title {
+        font-size: 32px;
+        padding-bottom: 12px;
+    }
+    .Lc9dnq {
+        flex-wrap: unset !important;
+        width: 100% !important;
+        display: flex !important;
+        padding: 0px 50px !important; 
+    }
+    .RY1B9m {
+        flex-direction: row;
+        align-items: center;
+    }
     .xYoloW94MHomeConteNT > h1 {
         font-size: 38px;
         line-height: 60px;
@@ -350,8 +397,6 @@
         line-height: 30px;
     }
     
-
-    /* ----------- YoloW94MeVeNT Start ------- */
     .YoloW94MeVeNT-content-01 {
         display: flex;
         align-items: center;
@@ -399,8 +444,6 @@
         margin: 240px 0px 0px 0px;
     }
 
-
-    /* -------------- YoloW94MainEevent Start ------------- */
     .YoloW94MainEevent-card {
         display: flex;
         flex-direction: column;
@@ -422,9 +465,6 @@
         padding: 900px 0px 50px 0px;
     }
     
-
-
-    /* ---------------- YoloW94MreVieW ---------- */
     .YoloW94MreVieW-section {
         padding: 0px;
     }
@@ -472,8 +512,6 @@
     .YoloW94MreVieW-description {
         padding: 40px 0px 0px 0px;
     }
-
-    /* ---------- Footer Start -------- */
     .footer {
         padding: 35px 0px 25px 0px;
         background: #000000;
@@ -489,7 +527,6 @@
 
 
 @media only screen and (max-width: 1200px) and (min-width: 869px) {
-    /* --------- Home Start -------- */
     .xYoloW94MHomeConteNT {
         padding: 120px 40px;
         text-align: center;
@@ -507,14 +544,14 @@
         font-size: 35px;
         padding: 0px 0px 0px 0px;
     }
-
-
-    /* --------- xYoloW94MaBoUt Start ------- */
     img.xYoloW94MaBoUt-img-01 {
         width: 400px;
         height: auto;
     }
-
+    img.xYoloW94MaBoUt-img-02.ju_22 {
+        width: 100%;
+        height: auto;
+    }
     img.xYoloW94MaBoUt-img-02 {
         position: absolute;
         right: -45px;
@@ -536,6 +573,15 @@
         padding: 50px 0px 140px 0px;
     }
 
+    .xYoloW94MaBoUtsEction.hyb_54K {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    img.xYoloW94MaBoUt-img-01.ju_21 {
+        width: 430px;
+    }
+
     .YoloW94MGaME-section {
         padding: 50px 0px 0px 0px;
     }
@@ -548,8 +594,6 @@
         padding: 450px 0px 0px 0px;
     }
 
-
-    /* --------------- YoloW94MeVeNT ----------- */
     .YoloW94MeVeNT-card-01 > img {
         width: 480px;
         height: auto;
@@ -583,9 +627,6 @@
         gap: 40px;
     }
 
-
-
-    /* ------------- YoloW94MainEevent Start ------------- */
     .YoloW94MainEevent-description {
         padding: 34px 10px;
     }
@@ -598,10 +639,6 @@
         font-size: 32px;
         margin: 8px 0px;
     }
-
-
-
-    /* ----------- YoloW94MreVieW Start ---------------- */
     .YoloW94MreVieW-card {
         margin-top: -150px;
         z-index: 1;
@@ -625,9 +662,6 @@
         margin: 24px 40px 5px 40px;
     }
 
-
-
-    /* ------------ Footer ----------- */
     .footer {
         padding: 35px 0px 25px 0px;
         background: #000000;
